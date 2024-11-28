@@ -5,7 +5,7 @@ session_start();
 $servername = "localhost"; // 正确的主机地址
 $username = "savo_shen";        // 你的数据库用户名
 $password = "22201076";            // 你的数据库密码（如果设置了密码，请填写）
-$dbname = "dty";         // 你的数据库名称
+$dbname = "basketball_system";         // 你的数据库名称
 $port = 3306;              // 数据库端口号
 
 // 创建连接
