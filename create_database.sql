@@ -1,8 +1,8 @@
 -- 创建数据库
--- CREATE DATABASE dtyyyy;
+-- CREATE DATABASE basketball_system;
 
 -- 使用数据库
--- USE dtyyyy;
+-- USE basketball_system;
 
 -- 创建用户表
 -- CREATE TABLE users (
